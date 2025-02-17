@@ -1,0 +1,1 @@
+{'Customer': 'Alice', 'Items': ['Pizza', 'Salad'], 'Total': 20.98}
